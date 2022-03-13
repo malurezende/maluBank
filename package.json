@@ -1,0 +1,12 @@
+{
+  "name": "malubank",
+  "version": "1.0.0",
+  "description": "Projeto do malubank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malu Rezende",
+  "license": "ISC",
+  "type": "module"
+}
